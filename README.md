@@ -8,7 +8,6 @@
 - AI应用：Dify（[本地Docker部署](https://docs.dify.ai/zh-hans/getting-started/install-self-hosted/docker-compose)）
 - 模型服务：飞浆AI Studio [一键部署DeepseekR1蒸馏模型](https://aistudio.baidu.com/deploy/mine)  deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
 
-参与赛道：赛道一
 
 领域：手语学习工具、特殊教育
 
